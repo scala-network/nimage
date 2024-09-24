@@ -1,0 +1,7 @@
+{
+    "quality": 90,
+    "cacheFolder": "./cache",
+    "cacheClearKey": "yourSecretKey",
+    "port": "8080",
+    "debug": true
+}
